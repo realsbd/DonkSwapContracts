@@ -1,7 +1,7 @@
 {
   "name": "@donkswap/liquidity-staker",
   "version": "1.0.3",
-  "author": "Chris Ciszak",
+  "author": "ChungBong",
   "repository": {
     "type": "git",
     "url": "https://github.com/JimmyStax90/DonkSwapContracts/liquidity-staker"
