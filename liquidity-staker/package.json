@@ -22,6 +22,7 @@
     "build-contracts": "sol-merger \"./contracts/*.sol\" ./build"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
     "@truffle/hdwallet-provider": "^1.4.1",
     "@uniswap/lib": "^4.0.1-alpha",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
